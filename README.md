@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Bienvenue sur mon profil Github!
 
-##En formation Développeur web et xeb mobile
+## En formation Développeur web et web mobile
 *Bienvenu dans mon univers de développeur*
 
 ## A propose de moi
