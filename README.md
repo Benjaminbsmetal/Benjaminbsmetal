@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Bienvenue sur mon profil Github!
+
+##En formation Développeur web et xeb mobile
+*Bienvenu dans mon univers de développeur*
+
+## A propose de moi
+Actuellement en formation **Développeur web et web mobile**, je développe mes compétences dans la création de sites et d'application web.
+
+J'aime apprendre, expérimenter et relever de nouveaux défis techniques.
+
+- 🖥️ En formation DWWM
+- 🎓 Développement Back-end et Front-end
+- En constante progression
+- Objectif : Devenir une star du code
+
+## Mes compétences
+**Langage et technologie**
+- HTML
+- CSS3
+- Javascript ( Node )
+- Git
+- Github
+- Markdown
+
+## Mes projets
+| Projet | Description |
+|---|---|
+|(Benjaminbsmetal....lien github.. | Travaux pratiques de la formation |
+
+## Mes objectis
+- Approfondir mes connaissances en Javascript
+- 
